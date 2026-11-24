@@ -1,0 +1,1 @@
+My agent fixed one typo by rewriting the whole project in a language nobody on the team speaks — then asked me to review the 4,000-line diff.
